@@ -10,7 +10,7 @@ Exercises
 
 from random import randrange
 
-from turtle import update, clear, ontimer, setup, 
+from turtle import update, clear, ontimer, setup,\ 
                    hideturtle, tracer, listen, onkey, done
  
 
